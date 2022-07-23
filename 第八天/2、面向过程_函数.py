@@ -17,6 +17,7 @@ if __name__ == '__main__':
     # print(result)
     result = bdd()
     print(result)
+    
 
 
 
