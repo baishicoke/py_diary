@@ -1,0 +1,28 @@
+1、运算符与表达式的续集
+    1.关系运算符和关系运算表达式
+    2.逻辑运算符
+    3.成员运算符
+    4.运算符优先级
+
+2、String(字符串)续集
+    1.创建字符串
+    2.字符串运算
+    3.格式化输出
+    占位符
+    4.转义字符
+    5.eval() 函数
+    6.len() 函数
+    7.ord() 函数
+    8.chr() 函数
+    9.String.方法
+count() 
+find() 
+rfind() 
+index() 
+rindex() 
+lstrip()
+rstrip()
+strip() 
+
+------------------------------------------------------------
+String所有方法：https://docs.python.org/zh-cn/3/library/stdtypes.html#text-sequence-type-str
