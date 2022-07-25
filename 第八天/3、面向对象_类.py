@@ -29,4 +29,3 @@ if __name__ == '__main__':
     # print(s.lenGth())
     # print(s.pop())
     print(s.getStack())
-    
