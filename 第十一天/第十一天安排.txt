@@ -1,0 +1,14 @@
+
+1、爬虫简介
+2、json交互
+
+
+https://docs.python.org/3.7/library/json.html
+
+
+预告：
+工具安装及使用
+爬虫框架
+
+
+
