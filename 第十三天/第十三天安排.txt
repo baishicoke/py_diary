@@ -1,0 +1,12 @@
+1、requests高级方法（下）
+
+
+文档链接：
+https://requests.readthedocs.io/projects/cn/zh_CN/latest/user/advanced.html#advanced
+
+
+预告：
+robots 是什么有什么用
+robots检测插件编写
+
+
