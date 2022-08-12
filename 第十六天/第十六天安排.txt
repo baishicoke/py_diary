@@ -1,0 +1,21 @@
+1、BeautifulSoup解析页面
+
+pip install bs4  lxml
+
+
+文档：
+https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#id8
+
+
+class是 .    有一个空格就多一个class
+id是 # 
+
+查看快捷键 Ctrl+F
+div .mod-db ul .lists li
+
+预告：
+Xpath语法解析页面
+正则表达式
+(3-5)个实战
+
+

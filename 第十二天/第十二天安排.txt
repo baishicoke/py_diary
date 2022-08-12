@@ -1,0 +1,29 @@
+1、charles 安装
+抓取HTTP流量
+抓取HTTPS流量
+2、HTTP协议基础
+3、requests基础方法（上）
+
+pprint 美化
+
+需要安装的库
+pip install requests
+pip install pillow
+
+charles 下载：https://www.charlesproxy.com/download/
+charles 注册：https:// www.zzzmode.com/mytools/charles/
+
+
+文档链接：
+https://requests.readthedocs.io/projects/cn/zh_CN/latest/user/quickstart.html
+https://requests.readthedocs.io/projects/cn/zh_CN/latest/
+
+github.com/psf/requests
+
+https://www.w3cschool.cn/requests2/requests2-gzsd3fj9.html
+
+
+预告：
+requests高级方法（下）
+robots检测插件编写
+
