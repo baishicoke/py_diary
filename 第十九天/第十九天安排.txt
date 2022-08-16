@@ -1,0 +1,15 @@
+1、图片网站实战
+    1.千图网
+    https://pro.58pic.com/psearch/78672461-%E5%9B%BD%E6%BD%AE-0-0-0-p1.html
+    2.王者荣耀英雄壁纸
+    http://www.netbian.com/s/wangzherongyaoyingxiong/index.htm
+
+作业：
+把本课所学实战 敲一遍 并发布到 频道的课后练习中
+
+
+后续预告：
+正则表达式实战：手机号、QQ、邮箱、IP地址、url user（6-12） password（9-18）的判断
+
+音乐网站实战
+视频网站实战
